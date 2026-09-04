@@ -1,3 +1,2 @@
 # Alogaritma-Pemrograman-2026
-Nama: Anastasya Putri Kirana
-NIM : 2225250041
+ANASTASYA PUTRI KIRANA (2225250041)
