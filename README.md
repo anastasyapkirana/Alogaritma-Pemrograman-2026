@@ -53,4 +53,4 @@ python "Tugas Pertemuan 1.py"
 ```
 
 Masukkan nilai alas dan tinggi ketika diminta. Program akan menampilkan hasil perhitungan luas segitiga.
-=======
+
