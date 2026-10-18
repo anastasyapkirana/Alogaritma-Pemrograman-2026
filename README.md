@@ -9,7 +9,7 @@
 
 ## Deskripsi Program
 
-Program ini dibuat untuk menghitung luas segitiga berdasarkan nilai alas dan tinggi yang dimasukkan oleh pengguna. Berisi tugas menghitung luas segitiga, yang terdiri dari program Python, dokumen laporan, dan gambar flowchart.
+Program ini dibuat untuk menghitung luas segitiga berdasarkan nilai alas dan tinggi yang dimasukkan oleh pengguna. Folder berisi tugas menghitung luas segitiga, yang terdiri dari program Python, dokumen laporan, dan gambar flowchart.
 
 ## Rumus
 
