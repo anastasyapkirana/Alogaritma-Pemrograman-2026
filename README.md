@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tugas Pertemuan 1 — Algoritma dan Pemrograman
 
 ## Identitas Mahasiswa
